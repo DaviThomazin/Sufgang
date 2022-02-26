@@ -1,0 +1,9 @@
+@import "css/header.css";
+@import "css/home.css";
+@import "css/footer.css";
+
+/*Componentes*/
+@import "componentes.css";
+
+/*Reset*/
+@import "reset.css";
