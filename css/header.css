@@ -1,6 +1,7 @@
 .header-bg {
     background-color: #ffffff;
     width: 100%;
+    margin-bottom: 60px;
 }
 
 @media (max-width: 810px) {
@@ -39,7 +40,7 @@
     text-decoration: underline;
 }
 
-@media (max-width: 930px) {
+@media (max-width: 971px) {
     .nav-list ul {
         padding-top: 20px;
         gap: 20px;
